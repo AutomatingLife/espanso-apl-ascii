@@ -1,0 +1,6 @@
+author: AutomatingLife
+description: A package to write APL symbols via ASCII completion.
+name: apl-ascii
+title: apl-ascii
+version: 0.1.0
+tags: ["autocomplete"]
